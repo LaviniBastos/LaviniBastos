@@ -1,9 +1,9 @@
 ## Hey, Hi, Hello World! Eu sou a Lavini.
 
-- 🔭 Entusiasta de desenvolvimento web com conhecimentos em HTML/CSS/Javascript porém hoje focada em Python e o Framework Django
-- 🌱 Estudando atualmente e sempre sobre tecnologia Cloud AWS/Azure e muito muito focada em Cybersegurança, minha área de especialização.
-- 👯 Estou procurando colaborar em projetos que envolvem segurança da informação
-- 😄 Pronouns: ela/dela
+- 🔭 Sou entusiasta de desenvolvimento web com base sólida em HTML, CSS e JavaScript, mas hoje meu foco principal é em **Python** e no framework **Django**.  
+- 🌱 Atualmente estou mergulhada no universo da **computação em nuvem (AWS e Azure)** e super dedicada à minha área de especialização: **Cybersegurança** 
+- 👯 Estou em busca de colaborar em projetos que envolvam **segurança da informação**, especialmente aqueles com impacto real.  
+- 😄 Pronomes: ela/dela
 
 
 <div align="center">
